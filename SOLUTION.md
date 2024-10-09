@@ -1,7 +1,17 @@
 # AVIV technical test solution
 
 STARTED: 14:14 October 8
+
 FINISHED: 15:40 October 8
+
+Files changed:
+- SOLUTION.md
+- db/03_init_prices_table.sql
+- db/04_set_initial_prices_data.sql
+- schemas/Aviv_Technical_Test_Architecture.drawio
+- typescript-serverless/src/functions/listing/handler.ts
+- typescript-serverless/src/functions/price/handler.ts
+- typescript-serverless/src/repositories/prices.ts
 
 ## Notes
 
